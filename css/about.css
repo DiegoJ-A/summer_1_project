@@ -216,3 +216,13 @@ h2 {
   clear: both;
   display: table;
 }
+
+#ab_me {
+  color: gray;
+}
+
+#center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
