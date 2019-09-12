@@ -163,7 +163,7 @@ h1:hover:after {
 }
 
 .image-container {
-   background: lightblue url("https://blogs.gartner.com/smarterwithgartner/files/2016/05/Blueprint_header.jpg") no-repeat fixed center;
+   background: white url("https://blogs.gartner.com/smarterwithgartner/files/2016/05/Blueprint_header.jpg") no-repeat fixed center;
   position: relative;
   background-attachment: fixed;
   text-align: center;
@@ -216,3 +216,9 @@ h2 {
   clear: both;
   display: table;
 }
+
+#center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;

@@ -163,7 +163,7 @@ h1:hover:after {
 }
 
 .image-container {
-   background: white url("https://welcome.topuertorico.org/img/gi-morro-aerial-view.jpg") no-repeat fixed center;
+   background: white url("https://coreysturdivant.files.wordpress.com/2012/09/well-dressed.jpg") no-repeat fixed center;
   position: relative;
   background-attachment: fixed;
   text-align: center;
@@ -226,4 +226,7 @@ h2 {
   margin-left: auto;
   margin-right: auto;
   width: 50px;
+  }
+.brothers {
+  color: gray;
 }

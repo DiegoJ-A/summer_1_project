@@ -93,7 +93,7 @@ button:focus:after{
 }
 
 /* page header */
-.page-header { 
+.page-header {
   padding: 50px 0;
   position: relative;
   background-image: url(http://youngdigital.co/wp-content/uploads/2012/06/awhCbhLqRceCdjcPQUnn_IMG_0249.jpg);
@@ -163,7 +163,7 @@ h1:hover:after {
 }
 
 .image-container {
-   background: lightblue url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1479854258%2Fthe-azores-portugal-WRLDSNST1122.jpg%3Fitok%3DL3x17RLi&q=85") no-repeat  center;
+   background: white url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1479854258%2Fthe-azores-portugal-WRLDSNST1122.jpg%3Fitok%3DL3x17RLi&q=85") no-repeat  center;
   position: relative;
   background-attachment: fixed;
   text-align: center;
