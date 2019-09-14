@@ -163,7 +163,7 @@ h1:hover:after {
 }
 
 .image-container {
-   background: lightblue url("https://welcome.topuertorico.org/img/gi-morro-aerial-view.jpg") no-repeat fixed center;
+   background: white url("https://welcome.topuertorico.org/img/gi-morro-aerial-view.jpg") no-repeat fixed center;
   position: relative;
   background-attachment: fixed;
   text-align: center;
@@ -226,3 +226,4 @@ h2 {
   margin-left: auto;
   margin-right: auto;
   width: 50px;
+}
